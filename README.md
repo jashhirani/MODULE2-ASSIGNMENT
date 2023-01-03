@@ -134,7 +134,7 @@
 		.col-sm-12{
 			border: 2px solid black;
 			position: relative;
-			width: 80%;
+			width: 100%;
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
