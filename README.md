@@ -126,7 +126,7 @@
 		
 		.row{
 			position: absolute;
-			width: 40%;
+			width: 90%;
 			height: 810px;
 			margin-left: 100px;
 		}
@@ -134,7 +134,7 @@
 		.col-sm-12{
 			border: 2px solid black;
 			position: relative;
-			width: 100%;
+			width: 80%;
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
