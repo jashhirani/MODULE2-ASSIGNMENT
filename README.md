@@ -138,7 +138,7 @@
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
-			margin-left: 20px;
+			margin-left: 0px;
 		}
 
 			section:nth-child(2){
