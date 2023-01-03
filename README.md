@@ -128,7 +128,7 @@
 			position: absolute;
 			width: 90%;
 			height: 810px;
-			margin-left: 100px;
+			margin-left: 20px;
 		}
 
 		.col-sm-12{
