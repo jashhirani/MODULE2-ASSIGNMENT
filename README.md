@@ -11,7 +11,9 @@
 			position: relative;
 		}
 
-
+h1{
+text-align:center;
+} 
 			h1.heading{
 				text-align: center;
 				border: 2px solid;
