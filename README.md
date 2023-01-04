@@ -13,7 +13,7 @@
 
 h1{
 text-align:center;
-margin-top:10px;
+margin-top:30px;
 } 
 			h1.heading{
 				text-align: center;
