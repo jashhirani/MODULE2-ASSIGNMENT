@@ -12,7 +12,7 @@
 		}
 
 
-			h1{
+			h1.heading{
 				text-align: center;
 				border: 2px solid;
 				width: 150px;
@@ -177,7 +177,7 @@
 
 	<div class="row">
 	
-		<center><h1>DEVICES</h1></center>
+		<center><h1 class="heading">DEVICES</h1></center>
 	
 		<section class="col-lg-4 col-md-6 col-sm-12">
 			<h2>DESKTOP</h2>
