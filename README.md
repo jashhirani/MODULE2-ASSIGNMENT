@@ -29,7 +29,7 @@
 		
 		.row{
 			position: fixed;
-			width: 77%;
+			width: 100%;
 			height: 400px;
 			margin-top: 150px;
 			
