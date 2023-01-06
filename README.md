@@ -85,6 +85,7 @@
 			width: 100%;
 			height: 460px;
 			margin-top: 150px;
+			left:-11px;
 		}
 
 		.col-md-6{
