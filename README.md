@@ -15,6 +15,7 @@
 			text-align:center;
 			margin-top:30px;
 			} 
+			
 			h1.heading{
 				text-align: center;
 				border: 2px solid;
@@ -32,7 +33,7 @@
 			width: 100%;
 			height: 400px;
 			margin-top: 150px;
-			
+			left:90px;
 		}
 
 		.col-lg-4{
