@@ -28,9 +28,9 @@
 @media (min-width:992px){
 		
 		.row{
-			position: absolute;
-			width: 100%;
-			height: 250px;
+			position: fixed;
+			width: 77%;
+			height: 400px;
 			margin-top: 150px;
 			
 		}
