@@ -71,6 +71,12 @@
 				text-align: center;
 				font-style: oblique;
 			}
+			
+			center{
+				position: fixed;
+				width: 1250px;
+                		top: 111px;
+			}
 
 			h1{
 					background-color: #9d9494;			
