@@ -7,14 +7,14 @@
 </head>
 <style>
 
-		body{
-			position: relative;
-		}
+			body{
+				position: relative;
+			     }
 
-h1{
-text-align:center;
-margin-top:30px;
-} 
+			h1{
+			text-align:center;
+			margin-top:30px;
+			} 
 			h1.heading{
 				text-align: center;
 				border: 2px solid;
@@ -22,6 +22,9 @@ margin-top:30px;
 				border-radius: 20px;
 
 			}
+			
+			
+
 @media (min-width:992px){
 		
 		.row{
@@ -29,6 +32,7 @@ margin-top:30px;
 			width: 100%;
 			height: 250px;
 			margin-top: 150px;
+			margin-right:100px;
 		}
 
 		.col-lg-4{
@@ -39,7 +43,7 @@ margin-top:30px;
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
-			
+			margin-left:40px;
 	}
 			section:nth-child(2){
 				background-color: silver;
