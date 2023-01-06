@@ -32,7 +32,7 @@
 			width: 100%;
 			height: 250px;
 			margin-top: 150px;
-			margin-right:100px;
+			margin-right:200px;
 		}
 
 		.col-lg-4{
