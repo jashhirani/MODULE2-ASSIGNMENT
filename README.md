@@ -32,7 +32,7 @@
 			width: 100%;
 			height: 250px;
 			margin-top: 150px;
-			margin-right:200px;
+			
 		}
 
 		.col-lg-4{
@@ -43,7 +43,7 @@
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
-			margin-left:40px;
+			margin-left:50px;
 	}
 			section:nth-child(2){
 				background-color: silver;
@@ -92,7 +92,6 @@
 			float: left;
 			position: relative;
 			width: 40%;
-/*			height: 45%;*/
 			box-sizing: border-box;
 			padding: 5px;
 			margin-top: 20px;
