@@ -39,7 +39,7 @@
 			border: 2px solid black;
 			float: left;
 			position: relative;
-			width: 24%;
+			width: 22%;
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
