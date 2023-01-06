@@ -39,7 +39,7 @@ margin-top:30px;
 			box-sizing: border-box;
 			padding: 10px;
 			margin-top: 10px;
-			margin-left: 30px;
+			
 	}
 			section:nth-child(2){
 				background-color: silver;
