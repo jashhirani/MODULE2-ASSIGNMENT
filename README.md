@@ -33,7 +33,7 @@
 			width: 100%;
 			height: 400px;
 			margin-top: 150px;
-			left:90px;
+			left:100px;
 		}
 
 		.col-lg-4{
