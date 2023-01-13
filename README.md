@@ -109,7 +109,9 @@
 			margin-top: 20px;
 			margin-left: 65px;
 			}
-
+			h1{
+			top:100px;
+			}
 			section:nth-child(2){
 				background-color: lightblue ;
 			}
