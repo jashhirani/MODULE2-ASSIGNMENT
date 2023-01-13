@@ -29,12 +29,19 @@
 @media (min-width:992px){
 		
 		.row{
-			position: fixed;
+			position: absolute;
 			width: 100%;
 			height: 400px;
 			margin-top: 150px;
 			left:100px;
 		}
+		
+		h1{     
+			position: absolute;
+			left: 500px;
+
+                }
+
 
 		.col-lg-4{
 			border: 2px solid black;
