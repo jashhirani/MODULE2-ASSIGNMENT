@@ -22,7 +22,7 @@
 				width: 150px;
 				border-radius: 20px;
 				position:absolute;
-				left:200px;
+				left:390px;
 
 			}
 			
