@@ -37,7 +37,7 @@
 		}
 		
 		h1{     
-			position: absolute;
+			position: fixed;
 			left: 500px;
 
                 }
