@@ -36,11 +36,6 @@
 			left:100px;
 		}
 		
-		h1{     
-			position: fixed;
-			left: 500px;
-
-                }
 
 
 		.col-lg-4{
