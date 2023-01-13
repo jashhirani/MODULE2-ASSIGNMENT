@@ -21,22 +21,19 @@
 				border: 2px solid;
 				width: 150px;
 				border-radius: 20px;
-				position:absolute;
-				left:390px;
-
 			}
 			
 			
 
 @media (min-width:992px){
 		
-		.row{
+		    .row{
 			position: absolute;
 			width: 100%;
 			height: 400px;
 			margin-top: 150px;
 			left:100px;
-		}
+			}
 		
 
 
@@ -49,7 +46,12 @@
 			padding: 10px;
 			margin-top: 10px;
 			margin-left:50px;
-	}
+			}
+	
+			h1.heading{
+				position:absolute;
+				left:390px;
+			}
 			section:nth-child(2){
 				background-color: silver;
 			}
